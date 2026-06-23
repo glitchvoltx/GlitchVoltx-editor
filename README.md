@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GlitchVoltx Logo](./GlitchVoltx%20logo.png)
+![GlitchVoltx Logo](./logo-GlitchVoltx-editor.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-1.0.0--beta-green.svg)](https://github.com/glitchvoltx/GlitchVoltx-editor)
