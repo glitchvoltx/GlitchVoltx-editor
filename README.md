@@ -1,4 +1,4 @@
-# 🎨 GlitchVoltx Editor
+# GlitchVoltx Editor
 
 <div align="center">
 
@@ -22,12 +22,12 @@ Built for creators, developers, and designers who want professional-grade web de
 
 ### ✨ Why Choose GlitchVoltx?
 
-- 💸 **100% Free** - No monthly fees, no limits
-- 🎬 **GSAP-Powered** - Professional animations built-in
-- 🤖 **AI Integration** - Smart features like automatic sitemap generation
-- 🌍 **Bilingual** - English + Japanese support (more coming!)
-- 🚀 **Clean Exports** - Production-ready HTML/CSS/JS
-- 🔓 **Open Source** - Customize, extend, and contribute
+-  **100% Free** - No monthly fees, no limits
+-  **GSAP-Powered** - Professional animations built-in
+-  **AI Integration** - Smart features like automatic sitemap generation
+- **Bilingual** - English + Japanese support (more coming!)
+-  **Clean Exports** - Production-ready HTML/CSS/JS
+-  **Open Source** - Customize, extend, and contribute
 
 ---
 
@@ -41,7 +41,6 @@ Built for creators, developers, and designers who want professional-grade web de
 
 ### 🎬 GSAP Animation Engine
 - **ScrollTrigger** - Scroll-based animations
-- **Timeline Control** - Sequence complex animations
 - **Draggable Elements** - Interactive user experiences
 - **Text Animations** - Typewriter effects & reveals
 - **Stagger Effects** - Beautiful entrance animations
