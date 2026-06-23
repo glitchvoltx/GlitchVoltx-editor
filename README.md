@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![GlitchVoltx Logo](./GlitchVoltx%20logo.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-1.0.0--beta-green.svg)](https://github.com/glitchvoltx/GlitchVoltx-editor)
 [![Status](https://img.shields.io/badge/Status-Beta-yellow.svg)](https://github.com/glitchvoltx/GlitchVoltx-editor)
@@ -16,7 +18,7 @@
 
 ## 📖 Overview
 
-**GlitchVoltx Editor** is a production-ready visual website builder that combines the power of **GSAP animations**, **AI-powered features**, and **intuitive drag-and-drop design**—all in one free, open-source package.
+**GlitchVoltx Editor** is a production-ready visual website builder that combines the power of **GSAP animations**, **AI-powered features**, and **intuitive drag-and-drop design**—all in one free, open-source platform.
 
 Built for creators, developers, and designers who want professional-grade web design tools without the subscription fees.
 
@@ -81,3 +83,5 @@ npm install
 
 # Start development server
 npm run dev
+
+```
