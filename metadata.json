@@ -1,0 +1,6 @@
+{
+  "name": "GlitchVoltx Editor",
+  "description": "A visual drag-and-drop web page builder similar to Webflow or Wix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
