@@ -85,3 +85,7 @@ npm install
 npm run dev
 
 ```
+## Showcase
+![picture 1](./image3.png)
+![picture 2](./image2.png)
+![picture 3](./image.png)
